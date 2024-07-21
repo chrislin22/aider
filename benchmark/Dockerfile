@@ -1,4 +1,4 @@
-FROM python:3.10-slim
+FROM python:3.13.0b3-slim
 RUN apt-get update
 RUN apt-get install -y less git build-essential
 COPY requirements-dev.txt /aider/requirements-dev.txt
