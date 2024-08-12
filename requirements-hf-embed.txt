@@ -139,7 +139,7 @@ networkx==3.2.1
     #   -c requirements.txt
     #   llama-index-core
     #   torch
-nltk==3.8.1
+nltk==3.8.2
     # via llama-index-core
 numpy==1.26.4
     # via
