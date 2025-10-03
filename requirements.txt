@@ -249,7 +249,7 @@ referencing==0.35.1
     #   jsonschema-specifications
 regex==2024.5.15
     # via tiktoken
-requests==2.32.3
+requests==2.32.4
     # via
     #   google-api-core
     #   huggingface-hub
@@ -321,7 +321,7 @@ tzdata==2024.1
     # via pandas
 uritemplate==4.1.1
     # via google-api-python-client
-urllib3==2.2.2
+urllib3==2.5.0
     # via requests
 watchdog==4.0.1
     # via -r requirements.in
