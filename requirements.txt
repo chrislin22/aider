@@ -66,7 +66,7 @@ fsspec==2024.6.1
     # via huggingface-hub
 gitdb==4.0.11
     # via gitpython
-gitpython==3.1.43
+gitpython==3.1.50
     # via
     #   -r requirements.in
     #   streamlit
