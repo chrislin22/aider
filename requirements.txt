@@ -31,7 +31,7 @@ cachetools==5.3.3
     # via
     #   google-auth
     #   streamlit
-certifi==2024.7.4
+certifi==2026.10.19
     # via
     #   httpcore
     #   httpx
@@ -54,7 +54,7 @@ diskcache==5.6.3
     # via -r requirements.in
 distro==1.9.0
     # via openai
-filelock==3.15.4
+filelock==4.2.1
     # via huggingface-hub
 flake8==7.1.0
     # via -r requirements.in
