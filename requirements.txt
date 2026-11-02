@@ -204,7 +204,7 @@ protobuf==4.25.3
     #   streamlit
 pyarrow==16.1.0
     # via streamlit
-pyasn1==0.6.0
+pyasn1==0.6.5
     # via
     #   pyasn1-modules
     #   rsa
